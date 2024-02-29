@@ -1,0 +1,16 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.repos-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.filters-container {
+  list-style-type: none;
+  display: flex;
+}
